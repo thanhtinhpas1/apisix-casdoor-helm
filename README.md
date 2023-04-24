@@ -1,5 +1,7 @@
 # Apisix Deployment
 
+This repository based on [Apisix Helm Chart](https://github.com/apache/apisix-helm-chart) and [Casdoor K8s](https://raw.githubusercontent.com/casdoor/casdoor/master/k8s.yaml)
+
 ## Pre-Deployment
 Make sure you have docker, kubectl, kind and helm installed and running.
 
